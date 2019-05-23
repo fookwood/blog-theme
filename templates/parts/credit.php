@@ -12,6 +12,7 @@
 
 	<?php
 
+	$beian_info = sprintf(' [<a href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备18022130号-2</a>]');
 	/**
 	 * Filter the footer copyright text.
 	 *
@@ -27,7 +28,7 @@
 		get_bloginfo( 'blogname' )
 	) ) );
 
-	echo wp_kses_post( $copyright_text );
+	echo wp_kses_post( $copyright_text . $beian_info );
 
 	/**
 	 * Filter the footer author credit display.
