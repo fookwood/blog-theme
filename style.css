@@ -623,7 +623,7 @@ a {
   clear: both; }
 
 .main-navigation {
-  max-width: 1100px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   display: none; }
@@ -1462,7 +1462,7 @@ object {
 # Site Layout
 --------------------------------------------------------------*/
 .site-content {
-  max-width: 1100px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 2em; }
@@ -1651,7 +1651,7 @@ body.no-max-width .site-content {
     display: none; }
 
 .site-header-wrapper {
-  max-width: 1100px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   position: relative; }
@@ -1696,7 +1696,7 @@ body.no-max-width .site-header-wrapper {
 .page-title-container {
   background-color: #ffffff; }
   .page-title-container .page-header {
-    max-width: 1100px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
@@ -1763,7 +1763,7 @@ body.no-max-width .page-title-container .page-header {
   background-color: #0b3954; }
 
 .footer-widget-area {
-  max-width: 1100px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   padding: 2em 0; }
@@ -1828,7 +1828,7 @@ body.no-max-width .footer-widget-area {
   padding: 1.5em 0;
   background-color: #f5f5f5; }
   .site-info-wrapper .site-info {
-    max-width: 1100px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto; }
     .site-info-wrapper .site-info:after {
