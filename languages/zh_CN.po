@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Primer 1.5.1\n"
+"Report-Msgid-Bugs-To: https://github.com/godaddy/wp-primer-theme/issues\n"
+"POT-Creation-Date: 2017-09-19 16:31:21+00:00\n"
+"PO-Revision-Date: 2017-09-19 10:45-0700\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "%1$d thought on %2$s"
+msgid_plural "%1$d thoughts on %2$s"
+msgstr[0] "关于 %2$s 的 %1$d 个意见"
+
+msgid "%1$s WordPress theme by %2$s"
+msgstr "通过 %2$s 确定 WordPress 主题 %1$s"
+
+msgid ""
+"%1$s is <strong>deprecated</strong> since %2$s version %3$s with no "
+"alternative available."
+msgstr "自没有备选的 %2$s 版本%3$s 后，%1$s 已 <strong>不推荐使用</strong>。"
+
+msgid ""
+"%1$s is <strong>deprecated</strong> since %2$s version %3$s! Use %4$s "
+"instead."
+msgstr "自 %2$s 版本 %3$s后，%1$s 已 <strong>不推荐使用</strong>！改用 %4$s。"
+
+msgid "%1$s navigation"
+msgstr "%1$s 导航"
+
+msgid "%d Comments"
+msgstr "% 评论"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 个物品"
+
+msgid "%s (Default)"
+msgstr "%s（默认）"
+
+msgid "%s Older Comments"
+msgstr "%s 条较早的评论"
+
+msgid "%s navigation"
+msgstr "%s 导航"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; 较老的评论"
+
+msgid "&larr; Previous"
+msgstr "&larr; 上一页"
+
+msgid ", "
+msgstr "， "
+
+msgid "1 Comment"
+msgstr "1 条评论"
+
+msgid "404 Page Not Found"
+msgstr "未找到 404 页面"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 较老的帖子"
+
+msgid "A %s theme widget designed for the Hero area on your site's front page."
+msgstr "为您网站首页设计的 %s 主题小组件。"
+
+msgid ""
+"Allow the featured image on the current post to override the hero image."
+msgstr "让当前帖子的特色图片覆盖英雄图片。"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Base Color Scheme"
+msgstr "基本颜色方案"
+
+msgid "Blog"
+msgstr "博客"
+
+msgid "Blush"
+msgstr "淡红色"
+
+msgid "Bronze"
+msgstr "青铜色"
+
+msgid "Button Link URL:"
+msgstr "按钮链接 URL："
+
+msgid "Button Text:"
+msgstr "按钮文本："
+
+msgid "Buttons"
+msgstr "按钮"
+
+msgid "Bylines, comment counts, reply links, post footers, and quote footers."
+msgstr "署名、评论数、回复链接、贴子页脚和报价页脚。"
+
+msgid "Canary"
+msgstr "加那利"
+
+msgid "Color Schemes"
+msgstr "配色方案"
+
+msgid "Colors"
+msgstr "颜色"
+
+msgid "Comment navigation"
+msgstr "评论导航"
+
+msgid "Comments are closed."
+msgstr "评论关闭。"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Content Background"
+msgstr "内容背景"
+
+msgid "Continue Reading %s"
+msgstr "继续阅读 %s"
+
+msgid "Continue reading %s"
+msgstr "继续阅读 %s"
+
+msgid ""
+"Control the color overlay transparency when using a custom Header Image."
+msgstr "当使用自定义标题图片时，控制颜色叠加透明度。"
+
+msgid "Cool"
+msgstr "酷爽"
+
+msgid "Copyright %1$s %2$d %3$s"
+msgstr "版权 %1$s %2$d %3$s"
+
+msgid "Copyright Text"
+msgstr "版权文本"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Dark"
+msgstr "暗"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Display theme author credit"
+msgstr "显示主题作者积分"
+
+msgid "Display your site differently on larger screens."
+msgstr "在更大屏幕上不同地显示您的站点。"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Featured"
+msgstr "精选"
+
+msgid "Featured Products"
+msgstr "特色产品"
+
+msgid "Filed under: %s"
+msgstr "标签： %s"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Fluid"
+msgstr "流体"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Footer"
+msgstr "页脚"
+
+msgid "Footer 1"
+msgstr "页脚 1"
+
+msgid "Footer 2"
+msgstr "页脚 2"
+
+msgid "Footer 3"
+msgstr "页脚 3"
+
+msgid "Footer Background"
+msgstr "页脚背景"
+
+msgid "Footer Copyright Text"
+msgstr "页脚版权文本"
+
+msgid "Footer Menu"
+msgstr "页脚菜单"
+
+msgid "Front page title"
+msgstr "首页标题"
+
+msgid "Get started here"
+msgstr "在此开始"
+
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+msgid "Header"
+msgstr "标题"
+
+msgid "Heading Text"
+msgstr "标题文本"
+
+msgid "Headings"
+msgstr "标题"
+
+msgid "Hero"
+msgstr "英雄"
+
+msgid "Hero Background"
+msgstr "英雄背景"
+
+msgid "Hero Background Overlay"
+msgstr "英雄背景叠加"
+
+msgid "Hero Text"
+msgstr "英雄文本"
+
+msgid "Hero widgets appear over the header image on the front page."
+msgstr "英雄小组件显示在前面页码的标题图片上。"
+
+msgid "Iguana"
+msgstr "鬣蜥"
+
+msgid ""
+"It looks like nothing was found at this location. Please try searching below:"
+msgstr "似乎在这个地址没有找到任何东西。请尝试以下搜索："
+
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "看来我们不能找到您要找的东西。请尝试进行搜索。"
+
+msgid "Layout"
+msgstr "布局"
+
+msgid "Leave a comment"
+msgstr "写评论"
+
+msgid "Link Text"
+msgstr "链接文本"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Menu Text"
+msgstr "菜单文本"
+
+msgid "Muted"
+msgstr "无色"
+
+msgid "Navigation"
+msgstr "导航"
+
+msgid "New In Store"
+msgstr "商店新品"
+
+msgid "Newer Comments %s"
+msgstr "%s 条较新的评论"
+
+msgid "Newer Comments &rarr;"
+msgstr "较新的评论 &rarr;"
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新的帖子 <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Next &rarr;"
+msgstr "下一页 &rarr;"
+
+msgid "Nothing Found"
+msgstr "未找到任何信息"
+
+msgid "On Sale Now"
+msgstr "正在促销"
+
+msgid "One Column: Narrow"
+msgstr "一列：窄"
+
+msgid "One Column: Wide"
+msgstr "一列：宽"
+
+msgid "Oops! That page can't be found."
+msgstr "哎呀！无法找到该页面。"
+
+msgid "Page %1$d of %2$d"
+msgstr "第 %1$d 页，共 %2$d 页"
+
+msgid "Page %d"
+msgstr "第 %d 页"
+
+msgid "Page Background"
+msgstr "网页背景"
+
+msgid "Page Width"
+msgstr "页面宽度"
+
+msgid "Pages:"
+msgstr "网页："
+
+msgid "Paragraphs, lists, links, quotes, and tables."
+msgstr "段落、列表、链接、报价和表格。"
+
+msgid "Paragraphs, lists, menu links, quotes and tables."
+msgstr "段落、列表、菜单链接、报价和表格。"
+
+msgid "Paste URL or type to search"
+msgstr "粘贴 URL 或键入以搜索"
+
+msgid "Plum"
+msgstr "梅红色"
+
+msgid "Popular Products"
+msgstr "热门产品"
+
+msgid "Post bylines, comment counts, post footers and quote footers."
+msgstr "帖子署名、评论数、贴子页脚和报价页脚。"
+
+msgid "Post titles, widget titles, form labels, and table headers."
+msgstr "帖子标题、小组件标题、表单标签和表格标题。"
+
+msgid "Post titles, widget titles, form labels, table headers and buttons."
+msgstr "帖子标题、小组件标题、表单标签、表格标题和按钮。"
+
+msgid "Posted in: %s"
+msgstr "分类： %s"
+
+msgid "Posts navigation"
+msgstr "帖子导航"
+
+msgid "Primary"
+msgstr "主"
+
+msgid "Primary Menu"
+msgstr "主菜单"
+
+msgid "Primary Text"
+msgstr "主要文本"
+
+msgid "Primary menu links and button links."
+msgstr "主要菜单链接和按钮链接。"
+
+msgid "Primer"
+msgstr "Primer"
+
+msgid ""
+"Primer is a powerful theme that brings clarity to your content in a fresh "
+"design."
+msgstr "Primer 是一个功能强大的主题，能为您的内容带来清晰全新的设计"
+
+msgid ""
+"Primer requires at least WordPress version %1$s. You are running version "
+"%2$s. Please upgrade and try again."
+msgstr ""
+"Primer 要求 WordPress 至少为 %1$s 版。您正在使用 %2$s 版。请升级并再次尝试。"
+
+msgid "Promoted Products"
+msgstr "促销产品"
+
+msgid "Read More <span class=\"meta-nav\">&rarr;</span>"
+msgstr "阅读更多 <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Ready to publish your first post? %s."
+msgstr "准备好发布您的第一个帖子了吗？%s。"
+
+msgid "Rose"
+msgstr "玫瑰红"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search Results for: %s"
+msgstr "搜索结果：%s"
+
+msgid "Secondary"
+msgstr "次级域名"
+
+msgid "Secondary Sidebar"
+msgstr "辅侧边栏"
+
+msgid "Secondary Text"
+msgstr "次要文本"
+
+msgid "Sidebar"
+msgstr "侧边栏"
+
+msgid "Site Title"
+msgstr "网站标题"
+
+msgid "Site Title Text"
+msgstr "站点标题文本"
+
+msgid "Site title text in the header."
+msgstr "标题中的站点标题文本。"
+
+msgid "Skip to content"
+msgstr "跳至内容"
+
+msgid "Social Menu"
+msgstr "社交菜单"
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合搜索条件的内容。 请试试其他关键词。"
+
+msgid "Tagline Text"
+msgstr "标语文本"
+
+msgid "Tangerine"
+msgstr "柑橘"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Text:"
+msgstr "文本："
+
+msgid ""
+"The primary sidebar appears alongside the content of every page, post, "
+"archive, and search template."
+msgstr "主侧边栏出现在每个页面、帖子、存档和搜索模板的内容旁边。"
+
+msgid ""
+"The secondary sidebar will only appear when you have selected a three-column "
+"layout."
+msgstr "辅侧边栏仅将在您选择三列布局时出现。"
+
+msgid "The title of widget. Leave empty for no title."
+msgstr "工具名称。 无名称则留空。"
+
+msgid "This sidebar is the first column of the footer widget area."
+msgstr "此边栏是页脚小组件区域的第一列"
+
+msgid "This sidebar is the second column of the footer widget area."
+msgstr "此边栏是页脚小组件区域的第二列"
+
+msgid "This sidebar is the third column of the footer widget area."
+msgstr "此边栏是页脚小组件区域的第三列"
+
+msgid "Three Columns: Content | Sidebar | Sidebar"
+msgstr "三列：内容 | 边栏 | 边栏"
+
+msgid "Three Columns: Sidebar | Content | Sidebar"
+msgstr "三列：边栏 | 内容 | 边栏"
+
+msgid "Three Columns: Sidebar | Sidebar | Content"
+msgstr "三列：边栏 | 边栏 | 内容"
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "Turquoise"
+msgstr "青绿色"
+
+msgid "Two Columns: Content | Sidebar"
+msgstr "两列：内容 | 边栏"
+
+msgid "Two Columns: Sidebar | Content"
+msgstr "两列：边栏 | 内容"
+
+msgid "Use featured image"
+msgstr "使用特色图片"
+
+msgid "Widget Content Background"
+msgstr "小组件内容背景"
+
+msgid "Widget Heading Text"
+msgstr "小组件标题文本"
+
+msgid "Widget Text"
+msgstr "小组件文本"
+
+msgid "Widgets Background"
+msgstr "小组件背景"
+
+msgid "https://github.com/godaddy/wp-primer-theme"
+msgstr "https://github.com/godaddy/wp-primer-theme"
+
+msgid "https://www.godaddy.com/"
+msgstr "https://www.godaddy.com/"
