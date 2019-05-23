@@ -1999,7 +1999,7 @@ body.no-max-width .site-info-wrapper .site-info {
 --------------------------------------------------------------*/
 .widget {
   margin: 0 0 1.5rem;
-  padding: 2rem;
+  padding: 1.5rem;
   background-color: #ffffff; }
   .widget p:last-child {
     margin-bottom: 0; }
