@@ -1843,7 +1843,7 @@ body.no-max-width .footer-widget-area {
     font-size: 90%;
     line-height: 38px; }
   .site-info-wrapper .site-info-text {
-    width: 47.22222%;
+    /* width: 47.22222%; */
     float: left;
     margin-left: 1.38889%;
     margin-right: 1.38889%;
