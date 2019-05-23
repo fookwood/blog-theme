@@ -10,7 +10,7 @@
 
 <div class="entry-summary">
 
-	<?php the_excerpt(); ?>
+	<?php the_content(); ?>
 
 	<p><a class="button" href="<?php the_permalink(); ?>" aria-label="<?php printf( /* translators: post title */ esc_attr__( 'Continue reading %s', 'primer' ), get_the_title() ); ?>"><?php printf( /* translators: right arrow (LTR) / left arrow (RTL) */ esc_html__( 'Continue Reading %s', 'primer' ), is_rtl() ? '&larr;' : '&rarr;' ); ?></a></p>
 
